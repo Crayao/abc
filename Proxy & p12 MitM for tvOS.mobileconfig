@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>请确认此配置文件的证书及代理服务器地址及端口与您的Shadowrocket, Loon, Quantumult X, Surge 或 Stash的设置相同后再安装,安装后请在本Apple TV的设置-&gt;通用-&gt;关于-&gt;证书信任设置中,将此描述文件中的证书状态变更为“可信”</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>Password</key>
+			<string>7Q12GQDG</string>
+			<key>PayloadCertificateFileName</key>
+			<string>root CA for MitM.p12</string>
+			<key>PayloadContent</key>
+			<data>
+			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
+			</data>
+			<key>PayloadDescription</key>
+			<string>添加 PKCS#12 格式的证书</string>
+			<key>PayloadDisplayName</key>
+			<string>root CA for MitM.p12</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.pkcs12.6136134F-4EE5-4A44-9BE9-4CDB82C6A053</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs12</string>
+			<key>PayloadUUID</key>
+			<string>6136134F-4EE5-4A44-9BE9-4CDB82C6A053</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>SX0216@yl</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.6A7E9224-E17E-40AC-890A-F3679D5E7FDC</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>6A7E9224-E17E-40AC-890A-F3679D5E7FDC</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyServer</key>
+			<string>192.168.50.95</string>
+			<key>ProxyServerPort</key>
+			<integer>7222</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>SSID_STR</key>
+			<string>ASUS_5G</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>设置tvOS的代理服务器及MitM证书</string>
+	<key>PayloadDisplayName</key>
+	<string>Proxy &amp; MitM for tvOS</string>
+	<key>PayloadIdentifier</key>
+	<string>DualSubs.Profile</string>
+	<key>PayloadOrganization</key>
+	<string>DualSubs</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>EC05DA41-4A75-4083-B574-C8389C7266FE</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
