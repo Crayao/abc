@@ -1,9 +1,9 @@
-# > CATCHPLAY+
+# 内容：CatchPlay+
 USER-AGENT,CATCHPLAY*
-DOMAIN-SUFFIX,catchplay.com
-DOMAIN,asiaplay-origin.s3.amazonaws.com
-DOMAIN,tra-ww000-cp.akamaized.net
-DOMAIN,ols-ww000-cp.akamaized.net
-DOMAIN,ols-ww100-cp.akamaized.net
-DOMAIN,dkfhw9rzsr80z.cloudfront.net
-DOMAIN,a1665.w10.akamai.net
+DOMAIN-KEYWORD,catchplay
+DOMAIN,hp2-api.catchplay.com
+DOMAIN,sunapi.catchplay.com
+DOMAIN,appupdates.catchplay.com
+DOMAIN,material.asset.catchplay.com
+DOMAIN,webcms.asset.catchplay.com
+DOMAIN-SUFFIX,catchpaly.com
