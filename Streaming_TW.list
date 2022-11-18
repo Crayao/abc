@@ -5,8 +5,8 @@ DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 
-# > CatchPlayPlus
-# - User-Agent,CatchPlay*
+# > CatchPlay
+User-Agent,CatchPlay*
 DOMAIN-KEYWORD,catchplay
 DOMAIN-SUFFIX,catchplay.com
 DOMAIN,asiaplay-origin.s3.amazonaws.com
