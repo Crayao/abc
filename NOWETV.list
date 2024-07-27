@@ -1,7 +1,7 @@
 #NOWETV
-DOMAIN,sg.nowplay.link
-DOMAIN,kr.nowplay.link
-DOMAIN,hk.nowplay.link
+DOMAIN,sg.nowtvb.live
+DOMAIN,kr.nowtvb.live
+DOMAIN,hk.nowtvb.live
 DOMAIN,diyp.112114.xyz
 IP-CIDR,146.56.137.241/24
 IP-CIDR,168.138.191.116/24
